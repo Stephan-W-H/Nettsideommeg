@@ -1,0 +1,29 @@
+.shadow{
+    height: 300px;
+    width: 300px;
+    box-shadow: 7px 5px 5px;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: aqua;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.purple{
+    background-color: purple;
+}
+
+div {
+    margin: 10px;
+}
+
+body {
+    background-color: bisque;
+}
